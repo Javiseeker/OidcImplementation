@@ -26,19 +26,6 @@ This solution implements a secure, scalable architecture with:
 └─────────────────┘                 └─────────────────┘
 ```
 
-## 📋 Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [AWS Setup](#aws-setup)
-- [Auth0 Configuration](#auth0-configuration)
-- [MVC Implementation](#mvc-implementation)
-- [Minimal API Implementation](#minimal-api-implementation)
-- [Configuration](#configuration)
-- [Security Best Practices](#security-best-practices)
-- [Architecture Decisions](#architecture-decisions)
-
 ## 🔧 Prerequisites
 
 - .NET 9 SDK
