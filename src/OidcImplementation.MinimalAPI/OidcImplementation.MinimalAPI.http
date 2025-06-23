@@ -1,0 +1,6 @@
+@OidcImplementation.MinimalAPI_HostAddress = http://localhost:5258
+
+GET {{OidcImplementation.MinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
