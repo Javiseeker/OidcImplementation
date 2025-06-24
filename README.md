@@ -1,6 +1,6 @@
 # OIDC Implementation Tutorial - .NET 9 with Auth0 and AWS
 
-A comprehensive tutorial demonstrating production-ready OIDC implementation using .NET 9 MVC and Minimal API with Auth0 as the external identity provider and AWS services integration.
+A comprehensive tutorial demonstrating production-ready OIDC implementation using .NET 9 MVC and Minimal API with Auth0 as the external identity provider and AWS services integration. This application will use the PKCE OIDC for Desktop Applications KNOWING that its not the best case scenario for a Razor Pages Application (Traditional Server Side Rendering)
 
 ## 🏗️ Architecture Overview
 
